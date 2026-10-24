@@ -93,8 +93,4 @@ jogo-da-cobrinha/
 - Aumento gradual da velocidade conforme a pontuação
 - Impedir que a primeira comida apareça sobre a cobra
 
-## Autores
-
-Grupo 05 — Programação de Computadores.
-
 <!-- Adicionem aqui o nome (e, se quiserem, o GitHub) de cada integrante. -->
