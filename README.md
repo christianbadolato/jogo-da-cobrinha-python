@@ -2,7 +2,7 @@
 
 Implementação do clássico **jogo da cobrinha** em **Python** com a biblioteca **Pygame**.
 
-Projeto desenvolvido pelo **Grupo 05** na disciplina **Programação de Computadores** (Projeto A2.3).
+Projeto desenvolvido pelo **Grupo 05** na disciplina **Programação de Computadores** (Projeto A2).
 
 **Integrantes:** 
 Cauê Norberto da Silva — RGM 48009661
